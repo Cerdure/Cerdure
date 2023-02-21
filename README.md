@@ -1,13 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20%20I'm%20Wonsoek&fontSize=90)
 
-####  :wave: Welcome my github profile !
-
-<br/>
-<br/>
-  
-####  :clipboard: Once I've Used 
-  
-<br/>
   
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -21,14 +13,6 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
  
-<br/>
-<br/>
-
-
-
-
-
-
 
 <!--
 **Cerdure/Cerdure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

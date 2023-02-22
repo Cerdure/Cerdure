@@ -4,8 +4,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cerdure&theme=transparent&show_icons=true" width="49%" height="200px"/>
 
 </a>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cerdure)](https://solved.ac/cerdure/)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cerdure)](https://solved.ac/cerdure/)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cerdure&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 

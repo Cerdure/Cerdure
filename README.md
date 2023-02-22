@@ -3,10 +3,10 @@
 </section>
 
    ## 👋 Pleased to meet you
-   <h3>
+   <h4>
    I'm a junior web-developer currently looking for new opportunities.</br>
    I enjoy growing and learning from my mistakes every single day.
-   </h3>
+   </h4>
 </br>
 
    ##  Langueges & Tools

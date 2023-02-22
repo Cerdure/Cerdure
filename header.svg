@@ -1,5 +1,5 @@
-    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-        style="z-index:1;position:relative" width="854" height="120" viewBox="0 0 854 300">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+        style="z-index:1;position:relative" width="854" height="120" viewBox="0 0 854 120">
         <style>
             svg {
                 background: black;
@@ -7,7 +7,6 @@
             }
 
             path {
-                width: 100%;
                 transform: rotate(180deg);
                 transform-origin: 50% 50%;
                 filter: drop-shadow(0 20px 20px #0004ff);
@@ -38,6 +37,7 @@
             }
         </style>
         <g transform="translate(427, 150) scale(1, 1) translate(-427, -150)">
+
             <defs>
                 <linearGradient id="linear" x1="0%" y1="0%" x2="0%" y2="100%">
                     <stop offset="0%" stop-color="#0014ff" />

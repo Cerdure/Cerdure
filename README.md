@@ -27,6 +27,6 @@
 
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img alt="Ashutosh's github activity graph" data-canonical-src="https://github-readme-activity-graph.cyclic.app/graph?username=cerdure&amp;theme=minimal" src="https://camo.githubusercontent.com/c169375b505c41e41e4011694169aa1c59dc07445341582598c1eafeb61ac246/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e6379636c69632e6170702f67726170683f757365726e616d653d63657264757265267468656d653d6d696e696d616c">
+<img alt="Ashutosh's github activity graph" data-canonical-src="https://github-readme-activity-graph.cyclic.app/graph?username=cerdure&amp;theme=minimal" src="https://camo.githubusercontent.com/c169375b505c41e41e4011694169aa1c59dc07445341582598c1eafeb61ac246/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e6379636c69632e6170702f67726170683f757365726e616d653d63657264757265267468656d653d6d696e696d616c" width="96%">
 </a>
 

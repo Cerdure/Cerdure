@@ -4,7 +4,7 @@
             svg {
                 transform: translate(-5px, -5px);
                 border: 5px solid white;
-                border-radius: 10px;
+                border-radius: 60px;
             }
 
             .background {
@@ -41,7 +41,7 @@
                     Segoe UI Emoji;
                 transform:
                     translate(7%,
-                        60%);
+                        65%);
                 filter:
                     drop-shadow(0 0 5px #0004ff);
                 mix-blend-mode:

@@ -4,6 +4,7 @@
             svg {
                 background: black;
                 border-radius: 30px;
+                overflow: hidden;
             }
 
             path {

@@ -1,9 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20%20I'm%20Wonsoek&fontSize=90)
 
-
-
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerdure&exclude_repo=cerdure.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=cerdure&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cerdure)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

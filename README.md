@@ -1,44 +1,80 @@
-<body>
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        .flex-row {
-            width: 100%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
+        @keyframes hi  {
+            0% { transform: rotate( 0.0deg) }
+           10% { transform: rotate(14.0deg) }
+           20% { transform: rotate(-8.0deg) }
+           30% { transform: rotate(14.0deg) }
+           40% { transform: rotate(-4.0deg) }
+           50% { transform: rotate(10.0deg) }
+           60% { transform: rotate( 0.0deg) }
+          100% { transform: rotate( 0.0deg) }
         }
 
-        .flex-column {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
+        @keyframes gradient {
+          0% {
+            background-position: 0% 50%;
+          }
+          50% {
+            background-position: 100% 50%;
+          }
+          100% {
+            background-position: 0% 50%;
+          }
         }
 
-        .status {}
+        .container {
+          --color-main: #5452ee;
+          --color-primary: #e73c7e;
+          --color-secondary: #23a6d5;
+          --color-tertiary: #ffff;
 
-        .baekjoon {
-            height: 190px !important;
+          background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
+          background-size: 400% 400%;
+          animation: gradient 15s ease infinite;
+
+          width: 100%;
+          height: 300px;
+
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          color: white;
+
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         }
 
-        .baekjoon img {
-            height: 100%;
+        .hi {
+          animation: hi 1.5s linear -0.5s infinite;
+          display: inline-block;
+          transform-origin: 70% 70%;
         }
-    </style>
-    
-    <box class="flex-column">
-        <section class="flex-row">
-            <img class="status"
-                src="https://github-readme-stats.vercel.app/api?username=cerdure&theme=transparent&show_icons=true" />
-            <box class="baekjoon" onclick=location.href="https://solved.ac/cerdure/" rel="nofollow">
-                <img src="https://camo.githubusercontent.com/7e26267e2e28e17dea72ca7052b8521c8d908ff47899427ce3b9d1f98b913b58/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f76322f67656e65726174655f62616467653f626f6a3d63657264757265"
-                    alt="Solved.ac Profile"
-                    data-canonical-src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cerdure">
-            </box>
-        </section>
-        <a class="graph" href="https://github.com/ashutosh00710/github-readme-activity-graph">
-            <img src="https://camo.githubusercontent.com/c169375b505c41e41e4011694169aa1c59dc07445341582598c1eafeb61ac246/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e6379636c69632e6170702f67726170683f757365726e616d653d63657264757265267468656d653d6d696e696d616c"
-                alt="Ashutosh's github activity graph"
-                data-canonical-src="https://github-readme-activity-graph.cyclic.app/graph?username=cerdure&amp;theme=minimal">
-        </a>
-    </box>
-</body>
+
+        @media (prefers-color-scheme: light) {
+          .container {
+            --color-main: #F15BB5;
+            --color-primary: #24b0ef;
+            --color-secondary: #4526f6;
+            --color-tertiary: #f6f645;
+          }
+        }
+
+        @media (prefers-reduced-motion) {
+          .container {
+            animation: none;
+          }
+
+          .hi {
+            animation: none;
+          }
+        }
+      </style>
+
+      <div class="container">
+        <h1>Hi there, my name is Nikola <div class="hi">👋</div></h1>
+      </div>
+    </div>
+  </foreignObject>
+</svgg

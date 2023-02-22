@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cerdure&theme=transparent&show_icons=true" width="42%" />
   </a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cerdure)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cerdure&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--

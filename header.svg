@@ -1,15 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:relative"
+   <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:relative"
         width="854" height="120" viewBox="0 0 854 120">
         <style>
             svg {
-                transform: translate(-5px, -5px);
-                border: 5px solid #91ccff80;
-                border-radius: 10px;
+                border-radius: 15px;
             }
 
             .background {
                 width: 854px;
                 height: 120px;
+            }
+
+            .side {
+                width: 854px;
+                height: 120px;
+                mix-blend-mode:
+                    plus-lighter;
             }
 
             path {
@@ -71,6 +76,10 @@
                     <stop offset="0%" stop-color="#0048ff" />
                     <stop offset="100%" stop-color="#49b0ff" />
                 </linearGradient>
+                <linearGradient id="linear-2" x1="0%" y1="0%" x2="0%" y2="100%">
+                    <stop offset="0%" stop-color="#000000" />
+                    <stop offset="100%" stop-color="#000d45" />
+                </linearGradient>
             </defs>
             <rect class="background"></rect>
             <path class="wave-1" d="" fill="url(#linear)" opacity="0.5">
@@ -89,5 +98,6 @@
                     values="M0 0L 0 70Q 213.5 120 427 90T 854 85L 854 0 Z;M0 0L 0 75Q 213.5 0 427 20T 854 70L 854 0 Z;M0 0L 0 45Q 213.5 35 427 55T 854 120L 854 0 Z;M0 0L 0 70Q 213.5 120 427 90T 854 85L 854 0 Z" />
             </path>
             <text>WonSeok Choi</text>
+            <rect class="side" fill="url(#linear-2)"></rect>
         </g>
     </svg>

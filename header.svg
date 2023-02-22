@@ -1,25 +1,64 @@
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-        style="z-index:1;position:relative" width="854" height="70" viewBox="0 0 854 70">
-        <g transform="translate(427, 35) scale(1, 1) translate(-427, -35)">
+        style="z-index:1;position:relative" width="854" height="120" viewBox="0 0 854 300">
+        <style>
+            svg {
+                background: black;
+                border-radius: 30px;
+            }
+
+            path {
+                width: 100%;
+                transform: rotate(180deg);
+                transform-origin: 50% 50%;
+                filter: drop-shadow(0 20px 20px #0004ff);
+                mix-blend-mode: plus-lighter;
+            }
+
+            text {
+                fill: #008eff;
+                font-size: 70px;
+                font-weight: 700;
+                font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+                transform: translate(7%, 46%);
+                filter: drop-shadow(0 0 5px #0004ff);
+                mix-blend-mode: plus-lighter;
+                opacity: 0.6;
+            }
+
+            .wave-1 {
+                transform-origin: 50% 60%;
+            }
+
+            .wave-2 {
+                transform-origin: 50% 65%;
+            }
+
+            .wave-3 {
+                transform-origin: 50% 70%;
+            }
+        </style>
+        <g transform="translate(427, 150) scale(1, 1) translate(-427, -150)">
             <defs>
-                <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-                    <stop offset="0%" stop-color="#005aff" />
-                    <stop offset="100%" stop-color="#ffffff" />
+                <linearGradient id="linear" x1="0%" y1="0%" x2="0%" y2="100%">
+                    <stop offset="0%" stop-color="#0014ff" />
+                    <stop offset="100%" stop-color="#49b0ff" />
                 </linearGradient>
             </defs>
-            <path d="" fill="url(#linear)" opacity="0.4">
+            <text>WonSeok Choi</text>
+            <path class="wave-1" d="" fill="url(#linear)" opacity="0.6">
                 <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1"
                     calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s"
-                    values="M0 0L 0 -10Q 213.5 30 427 0T 854 25L 854 0 Z;M0 0L 0 15Q 213.5 30 427 10T 854 0L 854 0 Z;M0 0L 0 35Q 213.5 5 427 35T 854 0L 854 0 Z;M0 0L 0 -10Q 213.5 30 427 0T 854 25L 854 0 Z">
-                </animate>
+                    values="M0 0L 0 220Q 213.5 260 427 230T 854 255L 854 0 Z;M0 0L 0 245Q 213.5 260 427 240T 854 230L 854 0 Z;M0 0L 0 265Q 213.5 235 427 265T 854 230L 854 0 Z;M0 0L 0 220Q 213.5 260 427 230T 854 255L 854 0 Z" />
             </path>
-            <path d="" fill="url(#linear)" opacity="0.4">
+            <path class="wave-2" d="" fill="url(#linear)" opacity="0.4">
                 <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1"
-                    calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s"
-                    values="M0 0L 0 5Q 213.5 50 427 20T 854 30L 854 0 Z;M0 0L 0 20Q 213.5 -10 427 -10T 854 10L 854 0 Z;M0 0L 0 15Q 213.5 -5 427 20T 854 35L 854 0 Z;M0 0L 0 5Q 213.5 50 427 20T 854 30L 854 0 Z">
-                </animate>
+                    calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-7s"
+                    values="M0 0L 0 235Q 213.5 280 427 250T 854 260L 854 0 Z;M0 0L 0 250Q 213.5 220 427 220T 854 240L 854 0 Z;M0 0L 0 245Q 213.5 225 427 250T 854 265L 854 0 Z;M0 0L 0 235Q 213.5 280 427 250T 854 260L 854 0 Z" />
+            </path>
+            <path class="wave-3" d="" fill="url(#linear)" opacity="0.3">
+                <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1"
+                    calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-14s"
+                    values="M0 0L 0 260Q 213.5 300 427 270T 854 265L 854 0 Z;M0 0L 0 255Q 213.5 180 427 200T 854 250L 854 0 Z;M0 0L 0 225Q 213.5 215 427 235T 854 290L 854 0 Z;M0 0L 0 250Q 213.5 300 427 270T 854 265L 854 0 Z" />
             </path>
         </g>
-        <text text-anchor="middle" alignment-baseline="middle" x="14%" y="80%" class="text" style="fill:#3a4a5c;"
-            stroke="#none" stroke-width="1">Wonseok Choi @cerdure</text>
     </svg>

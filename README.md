@@ -1,5 +1,5 @@
-<head>
-    <style>
+<body>
+      <style>
         .flex-row {
             width: 100%;
             display: flex;
@@ -24,9 +24,7 @@
             height: 100%;
         }
     </style>
-</head>
-
-<body>
+    
     <box class="flex-column">
         <section class="flex-row">
             <img class="status"

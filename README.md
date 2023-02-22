@@ -1,4 +1,5 @@
-    <style>
+<div xmlns="http://www.w3.org/1999/xhtml">
+<style>
         .flex-row {
             width: 100%;
             display: flex;
@@ -22,9 +23,8 @@
         .baekjoon img {
             height: 100%;
         }
-    </style>
+</style>
 
-<body>
     <box class="flex-column">
         <section class="flex-row">
             <img class="status"
@@ -41,4 +41,4 @@
                 data-canonical-src="https://github-readme-activity-graph.cyclic.app/graph?username=cerdure&amp;theme=minimal">
         </a>
     </box>
-</body>
+</div>

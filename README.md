@@ -2,10 +2,13 @@
 <img src="header.svg" width="100%"/>
 </section>
 
-   ## 👋 Hi, I'm Wonseok.
+   ## 👋 Pleased to meet you
    ### I'm a junior web-developer currently looking for new opportunities. 
+</br>
 
-<section align="left">
+   ##  Langueges & Tools
+</br>
+<section align="center">
 <img src="https://img.shields.io/badge/Java-3a75b0?style=Plastic&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=Plastic&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/jquery-0769AD?style=Plastic&logo=jquery&logoColor=white">
@@ -22,8 +25,7 @@
 </section>
 </br>
 
-
-## 🌊 Activities
+   ## Activities
 </br>
 <section align="center">
   <a href="https://solved.ac/cerdure/" rel="nofollow">

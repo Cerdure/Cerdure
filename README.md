@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0059ff&section=header&text=Pleased%20to%20meet%20you&fontSize=40&fontColor=ffffff&fontAlignY=30&animation=fadeIn" width="100%"/>
+
 <section align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=cerdure&theme=transparent&show_icons=true" width="49%">
 <a href="https://solved.ac/cerdure/" rel="nofollow">

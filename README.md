@@ -2,9 +2,10 @@
 
  <a href='s'>
   <img src="https://github-readme-stats.vercel.app/api?username=cerdure&theme=transparent&show_icons=true" width="49%" height="200px"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerdure&exclude_repo=cerdure.github.io&layout=compact&theme=transparent" width="49%" height="200px"/>
   </a>
 <a href='s'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerdure&exclude_repo=cerdure.github.io&layout=compact&theme=transparent" width="49%" height="200px"/>
+
  </a>
 
 

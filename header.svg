@@ -2,7 +2,7 @@
         width="854" height="120" viewBox="0 0 854 120">
         <style>
             svg {
-                border-radius: 15px;
+                border-radius: 12px;
             }
 
             .background {

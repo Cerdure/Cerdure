@@ -1,7 +1,9 @@
- <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:relative"
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:relative"
         width="854" height="120" viewBox="0 0 854 120">
         <style>
             svg {
+                transform: translate(-5px, -5px);
+                border: 5px solid white;
                 border-radius: 30px;
             }
 

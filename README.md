@@ -30,15 +30,28 @@
   ##  Works
 </br>
 <section align="center">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a>
-<img src="img/plice-logo.png" width="100px">&nbsp;&nbsp;
-<a href="https://github.com/Cerdure/Plice">Repository</a>&nbsp;&nbsp;
-<a href="http://plice.site">Live Demo</a>
-</a>
-
+<table>
+  <tr>
+    <td rowspan="2">
+    <img src="img/plice-logo.png" width="100px">
+    </td>
+    <td>
+    <a href="https://github.com/Cerdure/Plice">Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="http://plice.site">Live Demo</a>
+    </td>
+  </tr>
+</table>
 </section>
 </br>
+
+
+
+
+
 
 
 

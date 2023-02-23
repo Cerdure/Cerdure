@@ -49,12 +49,12 @@
     <img src="img/bookshelf-logo.png" width="150px">&nbsp;
     </td>
     <td>
-    <a href="https://github.com/Cerdure/Plice">Repository</a>
+    <a href="https://github.com/Cerdure/Bookshelf">Repository</a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="http://plice.site">Live Demo</a>
+    <a href="#">Live Demo</a>
     </td>
   </tr>
 </table>

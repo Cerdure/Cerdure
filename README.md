@@ -2,7 +2,7 @@
 <img src="img/header.svg" width="1200px"/>
 </section>
 
-   ## 👋 Pleased to meet you
+   ## 👋 Pleased to meet you!
 <h4>
    I'm a junior web-developer currently looking for new opportunities.</br>
    I enjoy growing and learning from my mistakes every single day.

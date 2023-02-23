@@ -1,5 +1,5 @@
 <section align="center">
-<img src="img/header.svg" width="100%"/>
+<img src="img/header.svg" width="1200px"/>
 </section>
 
    ## 👋 Pleased to meet you
@@ -28,7 +28,19 @@
 </br>
 
   ##  Works
-  [PLICE](http://plice.site/)
+</br>
+<section align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a>
+<img src="img/plice-logo.png" width="100px">&nbsp;&nbsp;
+<a href="https://github.com/Cerdure/Plice">Repository</a>&nbsp;&nbsp;
+<a href="http://plice.site">Live Demo</a>
+</a>
+
+</section>
+</br>
+
+
 
    ## Stats
 <section align="center">

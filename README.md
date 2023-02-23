@@ -9,7 +9,7 @@
 </h4>
 </br>
 
-   ##  Langueges & Tools
+   ##  Languages & Tools
 <section align="left">
    <img src="https://img.shields.io/badge/Java-cd7575?style=Plastic&logo=java&logoColor=white">
    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=Plastic&logo=javascript&logoColor=black">

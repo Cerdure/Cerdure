@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=Plastic&logo=Thymeleaf&logoColor=white">
 <img src="https://img.shields.io/badge/Gradle-02303A?style=Plastic&logo=Gradle&logoColor=white">
 <img src="https://img.shields.io/badge/Intelli J-000000?style=Plastic&logo=IntelliJIDEA&logoColor=white">
+</br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=Plastic&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/oracle-E23237?style=Plastic&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/aws-ec7211?style=Plastic&logo=AmazonAWS&logoColor=white">

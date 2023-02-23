@@ -1,5 +1,5 @@
 <section align="center">
-<img src="header.svg" width="100%"/>
+<img src="img/header.svg" width="100%"/>
 </section>
 
    ## 👋 Pleased to meet you

@@ -68,5 +68,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cerdure&show_icons=true&icon_color=0062ff&title_color=0062ff&text_color=000000&hide_title=true&border_radius=15" width="36%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerdure&exclude_repo=dkssud8150.github.io&layout=compact&title_color=0062ff&text_color=000000&border_radius=10" width="32.1%"/>
 </section>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cerdure&hide_title=true&color=000000&bg_color=ffffff&line=6fb5ff&point=0062ff)](https://github.com/ashutosh00710/github-readme-activity-graph)

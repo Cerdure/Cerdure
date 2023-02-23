@@ -1,20 +1,14 @@
-    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:relative"
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:relative"
         width="854" height="120" viewBox="0 0 854 120">
         <style>
             svg {
-                border-radius: 12px;
+                animation: fadeIn 3s both;
+                border-radius: 10px;
             }
 
             .background {
                 width: 854px;
                 height: 120px;
-            }
-
-            .side {
-                width: 854px;
-                height: 120px;
-                mix-blend-mode:
-                    plus-lighter;
             }
 
             path {
@@ -44,11 +38,9 @@
                     translate(7%,
                         65%);
                 filter:
-                    drop-shadow(0 0 5px #0004ff);
+                    drop-shadow(0 0 10px #0004ff);
                 mix-blend-mode:
                     plus-lighter;
-                opacity:
-                    1;
             }
 
             .wave-1 {
@@ -65,8 +57,29 @@
                 transform-origin:
                     50% 60%;
             }
+
+            svg:hover path {
+                filter: saturate(0) brightness(0.8) drop-shadow(0 10px 10px #000000);
+                transition: 1s;
+            }
+
+            svg:hover text {
+                fill:
+                    #4891ff;
+                transition: 0.5s;
+            }
+
+            @keyframes fadeIn {
+                0% {
+                    filter: saturate(0);
+                }
+
+                100% {
+                    filter: saturate(1);
+                }
+            }
         </style>
-        <g transform="translate(427, 60) scale(1, 1) translate(-427, -60)">
+        <g transform="translate(427, 0) scale(1, 1) translate(-427, -0)">
             <defs>
                 <linearGradient id="linear" x1="0%" y1="0%" x2="0%" y2="100%">
                     <stop offset="0%" stop-color="#0048ff" />

@@ -28,7 +28,7 @@
 </br>
 
   ##  Works
-  [PLICE](https://www.plice.site/)
+  [PLICE](https://plice.site/)
 
    ## Activities
 <section align="center">

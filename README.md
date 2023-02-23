@@ -3,28 +3,27 @@
 </section>
 
    ## 👋 Pleased to meet you
-   <h4>
+<h4>
    I'm a junior web-developer currently looking for new opportunities.</br>
    I enjoy growing and learning from my mistakes every single day.
-   </h4>
+</h4>
 </br>
 
    ##  Langueges & Tools
 <section align="left">
-<img src="https://img.shields.io/badge/Java-3a75b0?style=Plastic&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=Plastic&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/jquery-0769AD?style=Plastic&logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/css-1C9AD6?style=Plastic&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=Plastic&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Boot-68BC71?style=Plastic&logo=SpringBoot&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Security-139BB4?style=Plastic&logo=SpringSecurity&logoColor=white">
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=Plastic&logo=Thymeleaf&logoColor=white">
-<img src="https://img.shields.io/badge/Gradle-02303A?style=Plastic&logo=Gradle&logoColor=white">
-<img src="https://img.shields.io/badge/Intelli J-000000?style=Plastic&logo=IntelliJIDEA&logoColor=white">
-</br>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=Plastic&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/oracle-E23237?style=Plastic&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/aws-ec7211?style=Plastic&logo=AmazonAWS&logoColor=white">
+   <img src="https://img.shields.io/badge/Java-3a75b0?style=Plastic&logo=java&logoColor=white">
+   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=Plastic&logo=javascript&logoColor=black">
+   <img src="https://img.shields.io/badge/jquery-0769AD?style=Plastic&logo=jquery&logoColor=white">
+   <img src="https://img.shields.io/badge/css-1C9AD6?style=Plastic&logo=css3&logoColor=white">
+   <img src="https://img.shields.io/badge/Spring-6DB33F?style=Plastic&logo=Spring&logoColor=white">
+   <img src="https://img.shields.io/badge/Spring Boot-68BC71?style=Plastic&logo=SpringBoot&logoColor=white">
+   <img src="https://img.shields.io/badge/Spring Security-139BB4?style=Plastic&logo=SpringSecurity&logoColor=white">
+   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=Plastic&logo=Thymeleaf&logoColor=white">
+   <img src="https://img.shields.io/badge/Gradle-02303A?style=Plastic&logo=Gradle&logoColor=white">
+   <img src="https://img.shields.io/badge/Intelli J-000000?style=Plastic&logo=IntelliJIDEA&logoColor=white">
+   <img src="https://img.shields.io/badge/mysql-4479A1?style=Plastic&logo=mysql&logoColor=white">
+   <img src="https://img.shields.io/badge/oracle-E23237?style=Plastic&logo=oracle&logoColor=white">
+   <img src="https://img.shields.io/badge/aws-ec7211?style=Plastic&logo=AmazonAWS&logoColor=white">
 </section>
 </br>
 

@@ -10,7 +10,7 @@
 </br>
 
    ##  Langueges & Tools
-<section align="center">
+<section align="left">
 <img src="https://img.shields.io/badge/Java-3a75b0?style=Plastic&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=Plastic&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/jquery-0769AD?style=Plastic&logo=jquery&logoColor=white">
@@ -28,12 +28,10 @@
 </br>
 
   ##  Works
-</br>
-<section align="center">
-<table>
+<table align="left">
   <tr>
     <td rowspan="2">
-    <img src="img/plice-logo.png" width="100px">
+    <img src="img/plice-logo.png" width="120px">
     </td>
     <td>
     <a href="https://github.com/Cerdure/Plice">Repository</a>
@@ -45,18 +43,25 @@
     </td>
   </tr>
 </table>
-</section>
+<table>
+  <tr>
+    <td rowspan="2">
+    <img src="img/bookshelf-logo.png" width="150px">&nbsp;
+    </td>
+    <td>
+    <a href="https://github.com/Cerdure/Plice">Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="http://plice.site">Live Demo</a>
+    </td>
+  </tr>
+</table>
 </br>
 
-
-
-
-
-
-
-
    ## Stats
-<section align="center">
+<section align="left">
   <a href="https://solved.ac/cerdure/" rel="nofollow">
   <img alt="Solved.ac Profile" data-canonical-src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cerdure" width="26.4%" src="https://camo.githubusercontent.com/7e26267e2e28e17dea72ca7052b8521c8d908ff47899427ce3b9d1f98b913b58/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f76322f67656e65726174655f62616467653f626f6a3d63657264757265">
   </a>

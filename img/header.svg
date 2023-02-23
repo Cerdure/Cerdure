@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:relative"
+  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:relative"
         width="854" height="120" viewBox="0 0 854 120">
         <style>
             svg {
@@ -83,7 +83,7 @@
             <defs>
                 <linearGradient id="linear" x1="0%" y1="0%" x2="0%" y2="100%">
                     <stop offset="0%" stop-color="#0048ff" />
-                    <stop offset="100%" stop-color="#9adaff" />
+                    <stop offset="100%" stop-color="#7ed0ff" />
                 </linearGradient>
             </defs>
             <rect class="background"></rect>
@@ -102,6 +102,5 @@
                     calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-14s"
                     values="M0 0L 0 70Q 213.5 120 427 90T 854 85L 854 0 Z;M0 0L 0 75Q 213.5 0 427 20T 854 70L 854 0 Z;M0 0L 0 45Q 213.5 35 427 55T 854 120L 854 0 Z;M0 0L 0 70Q 213.5 120 427 90T 854 85L 854 0 Z" />
             </path>
-            <text>WonSeok Choi</text>
         </g>
     </svg>

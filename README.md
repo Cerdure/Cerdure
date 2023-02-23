@@ -54,7 +54,7 @@
   </tr>
   <tr>
     <td>
-    <a href="#"><strong>Live Demo</strong></a>
+    <a href="https://bookshelf.run"><strong>Live Demo</strong></a>
     </td>
   </tr>
 </table>

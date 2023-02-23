@@ -1,9 +1,7 @@
-<section align="center">
 <img src="img/header.svg" width="1200px"/>
-</section>
-
-   ## 👋 Pleased to meet you!
+<h2></h2>
 <h4>
+ 👋 Pleased to meet you!</br></br>
    I'm a junior web-developer currently looking for new opportunities.</br>
    I enjoy growing and learning from my mistakes every single day.
 </h4>

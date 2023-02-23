@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td>
-    <a href="http://plice.site">Live Demo</a>
+       <a href="http://plice.site"><strong>Live Demo</strong></a>
     </td>
   </tr>
 </table>
@@ -54,7 +54,7 @@
   </tr>
   <tr>
     <td>
-    <a href="#">Live Demo</a>
+    <a href="#"><strong>Live Demo</strong></a>
     </td>
   </tr>
 </table>

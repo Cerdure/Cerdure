@@ -1,0 +1,175 @@
+ <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:relative"
+        width="1000" height="120" viewBox="0 0 1000 120">
+        <style>
+            svg {
+                animation: fadeIn 3s both;
+            }
+
+            g {
+                transform: translateY(-30%);
+            }
+
+            path {
+                filter:
+                    drop-shadow(0 10px 10px #000000);
+                mix-blend-mode:
+                    plus-lighter;
+            }
+
+            text {
+                fill: #71a6fd;
+                font-size: 30px;
+                font-weight: 1;
+                font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+                transform: translate(40%, 78%);
+                filter: drop-shadow(0 0 2px #0084ff);
+                mix-blend-mode: color-dodge;
+            }
+
+            .wave-1 {
+                animation: wave-1 10s linear infinite;
+            }
+
+            .wave-2 {
+                animation: wave-2 10s linear infinite;
+            }
+
+            .wave-3 {
+                animation: wave-3 10s linear infinite;
+            }
+
+            .wave-4 {
+                animation: wave-4 10s linear infinite;
+            }
+
+
+
+            @keyframes fadeIn {
+                0% {
+                    filter: saturate(0);
+                }
+
+                100% {
+                    filter: saturate(1);
+                }
+            }
+
+            @keyframes wave-1 {
+                0% {
+                    d: path("M0 0L 0 45Q 250 50 500 120T 1000 70L 1000 0 Z");
+                }
+
+                25% {
+                    d: path("M0 0L 0 100Q 250 0 500 70T 1000 120L 1000 0 Z");
+                }
+
+                37.5% {
+                    d: path("M0 0L 0 120Q 250 40 450 50T 1000 110L 1000 0 Z");
+                }
+
+                50% {
+                    d: path("M0 0L 0 140Q 250 80 500 53T 1000 100L 1000 0 Z");
+                }
+
+                75% {
+                    d: path("M0 0L 0 80Q 250 140 500 100T 1000 45L 1000 0 Z");
+                }
+
+                100% {
+                    d: path("M0 0L 0 45Q 250 50 500 120T 1000 70L 1000 0 Z");
+                }
+            }
+            
+            @keyframes wave-2 {
+                0% {
+                    d: path("M0 0L 0 100Q 250 0 500 70T 1000 120L 1000 0 Z");
+                }
+
+                12.5% {
+                    d: path("M0 0L 0 120Q 250 40 450 50T 1000 110L 1000 0 Z");
+                }
+
+                25% {
+                    d: path("M0 0L 0 140Q 250 80 500 53T 1000 100L 1000 0 Z");
+                }
+
+                50% {
+                    d: path("M0 0L 0 80Q 250 140 500 100T 1000 45L 1000 0 Z");
+                }
+
+                75% {
+                    d: path("M0 0L 0 45Q 250 50 500 120T 1000 70L 1000 0 Z");
+                }
+
+                100% {
+                    d: path("M0 0L 0 100Q 250 0 500 70T 1000 120L 1000 0 Z");
+                }
+            }
+
+            @keyframes wave-3 {
+                0% {
+                    d: path("M0 0L 0 140Q 250 80 500 53T 1000 100L 1000 0 Z");
+                }
+
+                25% {
+                    d: path("M0 0L 0 80Q 250 140 500 100T 1000 45L 1000 0 Z");
+                }
+
+                50% {
+                    d: path("M0 0L 0 45Q 250 50 500 120T 1000 70L 1000 0 Z");
+                }
+
+                75% {
+                    d: path("M0 0L 0 100Q 250 0 500 70T 1000 120L 1000 0 Z");
+                }
+
+                87.5% {
+                    d: path("M0 0L 0 120Q 250 40 450 50T 1000 110L 1000 0 Z");
+                }
+
+                100% {
+                    d: path("M0 0L 0 140Q 250 80 500 53T 1000 100L 1000 0 Z");
+                }
+            }
+
+            @keyframes wave-4 {
+                0% {
+                    d: path("M0 0L 0 80Q 250 140 500 100T 1000 45L 1000 0 Z");
+                }
+
+                25% {
+                    d: path("M0 0L 0 45Q 250 50 500 120T 1000 70L 1000 0 Z");
+                }
+
+                50% {
+                    d: path("M0 0L 0 100Q 250 0 500 70T 1000 120L 1000 0 Z");
+                }
+
+                62.5% {
+                    d: path("M0 0L 0 120Q 250 40 450 50T 1000 110L 1000 0 Z");
+                }
+
+                75% {
+                    d: path("M0 0L 0 140Q 250 80 500 53T 1000 100L 1000 0 Z");
+                }
+
+                100% {
+                    d: path("M0 0L 0 80Q 250 140 500 100T 1000 45L 1000 0 Z");
+                }
+            }
+            
+        </style>
+        <g>
+            <defs>
+                <linearGradient id="linear" x1="0%" y1="0%" x2="0%" y2="100%">
+                    <stop offset="0%" stop-color="#363636" />
+                    <stop offset="100%" stop-color="#ffffff00" />
+                </linearGradient>
+            </defs>
+            <path class="wave-1" d="" fill="url(#linear)"></path>
+            <path class="wave-2" d="" fill="url(#linear)"></path>
+            <path class="wave-3" d="" fill="url(#linear)"></path>
+            <path class="wave-4" d="" fill="url(#linear)"></path>
+            <text>WonSeok Choi</text>
+        </g>
+    </svg>

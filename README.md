@@ -1,7 +1,7 @@
 <img src="img/header-mono.svg" width="1200px"/>
-<h2></h2>
+<h2>Pleased to meet you!</h2>
 <h4>
- 👋 Pleased to meet you!</br></br>
+   </br>
    I'm a junior web-developer currently looking for new opportunities.</br>
    I enjoy growing and learning from my mistakes every single day.
 </h4>

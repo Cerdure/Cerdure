@@ -44,7 +44,7 @@
 <table>
   <tr>
     <td rowspan="2">
-    <img src="img/bookshelf-logo.png" width="150px">&nbsp;
+    <img src="img/bookshelf-logo.png" width="170px">&nbsp;
     </td>
     <td>
     <a href="https://github.com/Cerdure/Bookshelf">Repository</a>

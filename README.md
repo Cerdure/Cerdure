@@ -1,4 +1,4 @@
-<img src="img/header-mono.svg" width="1200px"/>
+<img src="img/header-mono-3.svg" width="1200px"/>
 <h2>Pleased to meet you!</h2>
 <h4>
    </br>

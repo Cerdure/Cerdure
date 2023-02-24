@@ -1,4 +1,4 @@
-<img src="img/header-achro.svg" width="1200px"/>
+<img src="img/header-mareel.svg" width="1200px"/>
 <h2>Pleased to meet you!</h2>
 <h4>
   I'm a junior web-developer currently looking for new opportunities.</br>

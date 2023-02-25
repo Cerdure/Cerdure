@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td>
-       <a href="https://plice.site"><strong>Live Demo</strong></a>
+       <a href="https://plice.site"><strong>Live Demo(pc)</strong></a>
     </td>
   </tr>
 </table>

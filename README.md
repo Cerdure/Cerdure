@@ -1,12 +1,12 @@
-<img src="img/header-achro-2.svg" width="1200px"/>
-<h2>Pleased to meet you!</h2>
+<!-- <img src="img/header-achro-2.svg" width="1200px"/> -->
+<h2>👋 Pleased to meet you!</h2>
 <h4>
   I'm a junior web-developer currently looking for new opportunities.</br>
   I enjoy growing and learning from my mistakes every single day.
 </h4>
 </br>
 
-   ##  Languages & Tools
+   ## Languages & Tools
 <section align="left">
    <img src="https://img.shields.io/badge/Java-cd7575?style=Plastic&logo=java&logoColor=white">
    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=Plastic&logo=javascript&logoColor=black">

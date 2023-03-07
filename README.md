@@ -24,7 +24,7 @@
 </section>
 </br>
 
-  ##  Works
+  ##  Projects
 <table align="left">
   <tr>
     <td rowspan="2">

@@ -3,8 +3,10 @@
 <h4>
   I'm a junior web-developer currently looking for new opportunities.</br>
   I enjoy growing and learning from my mistakes every single day.</br></br>
-  > Portfolio Site : <a href="https://cerdure.me">https://cerdure.me</a>
 </h4>
+<h3>
+  > Portfolio Site : <a href="https://cerdure.me">https://cerdure.me</a>
+</h3>
 </br>
 
    ## Languages & Tools
